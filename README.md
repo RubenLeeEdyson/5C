@@ -1,6 +1,6 @@
-# week-8.2C-README.md
+# week-5C-README.md
 
-# SIT225 Week 8.2C
+# SIT225 Week 5C
 
 This folder contains the implementation for the SIT225 Credit Task
 involving smooth real-time Plotly Dash updates of smartphone
